@@ -1,2 +1,2 @@
 # myPortfolio
-This is basically a repo that contains all my projects.
+This is basically a repo that display all my projects.
